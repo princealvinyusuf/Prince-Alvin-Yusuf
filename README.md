@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princealvinyusuf&layout=compact&hide=html" alt="princealvinyusuf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princealvinyusuf&show_icons=true" alt="princealvinyusuf" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=princealvinyusuf&show_icons=true" alt="princealvinyusuf" /></p>
 
 
