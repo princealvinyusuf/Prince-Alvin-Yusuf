@@ -4,7 +4,7 @@
 <h1 align="center">My name is Alvin </h1>
 <h3 align="center">A self-taught programmer😜</h3>
 
-![GitHub followers](https://img.shields.io/github/followers/abuanwar072?logo=GitHub&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/princealvinyusuf?logo=GitHub&style=for-the-badge)
 
 - 🔭 I’m currently working on [TakeIn](https://takein.com/), [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
 
