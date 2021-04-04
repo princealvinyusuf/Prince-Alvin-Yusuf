@@ -27,14 +27,14 @@
 ## Published App
 
 ### Wastless
-<a href="https://apps.apple.com/id/app/wastless/id1536328244" target="blank"><img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg" alt="appstore" height="120" width="120" /></a>
+<a href="https://apps.apple.com/id/app/wastless/id1536328244" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/aivalable-on-the-app-store-2.svg" alt="appstore" height="80" width="80" /></a>
 
 ### Meler (Multimedia E-Learning)
-<a href="https://play.google.com/store/apps/details?id=com.polibatam.meler" target="blank"><img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" alt="playstore" height="120" width="120" /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.polibatam.meler" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/google-2.svg" alt="playstore" height="80" width="80" /></a> 
 
 ### Smart Poster NFC
-<a href="https://play.google.com/store/apps/details?id=com.polibatam.smartposternfc" target="blank"><img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" alt="playstore" height="120" width="120" /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.polibatam.smartposternfc" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/google-2.svg" alt="playstore" height="80" width="80" /></a> 
 
 ### Pembela Tanah Air
-<a href="https://play.google.com/store/apps/details?id=com.combro.Peta" target="blank"><img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" alt="playstore" height="120" width="120" /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.combro.Peta" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/google-2.svg" alt="playstore" height="80" width="80" /></a> 
 
