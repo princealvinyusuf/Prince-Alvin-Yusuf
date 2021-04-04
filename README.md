@@ -31,3 +31,10 @@
 
 ### Meler (Multimedia E-Learning)
 <a href="https://play.google.com/store/apps/details?id=com.polibatam.meler" target="blank"><img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" alt="playstore" height="120" width="120" /></a> 
+
+### Smart Poster NFC
+<a href="https://play.google.com/store/apps/details?id=com.polibatam.smartposternfc" target="blank"><img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" alt="playstore" height="120" width="120" /></a> 
+
+### Pembela Tanah Air
+<a href="https://play.google.com/store/apps/details?id=com.combro.Peta" target="blank"><img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" alt="playstore" height="120" width="120" /></a> 
+
