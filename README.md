@@ -26,7 +26,7 @@
 
 ## Published App
 
-#### NutriCal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wastless &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moneytory &nbsp;&nbsp;&nbsp;&nbsp; Task Board &nbsp;&nbsp;&nbsp; Weatheria
+#### NutriCal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wastless &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moneytory &nbsp;&nbsp;&nbsp;&nbsp; Task Board &nbsp;&nbsp;&nbsp; Weatheria
 <a href="https://apps.apple.com/id/app/nutrical-app/id1535180344" target="blank"><img src="https://iconape.com/wp-content/png_logo_vector/download-on-the-app-store-flat-badge-logo.png" alt="appstore" height="30" width="100" /></a>
 <a href="https://apps.apple.com/id/app/wastless/id1536328244" target="blank"><img src="https://iconape.com/wp-content/png_logo_vector/download-on-the-app-store-flat-badge-logo.png" alt="appstore" height="30" width="100" /></a>
 <a href="https://apps.apple.com/id/app/moneytory/id1540283714" target="blank"><img src="https://iconape.com/wp-content/png_logo_vector/download-on-the-app-store-flat-badge-logo.png" alt="appstore" height="30" width="100" /></a>
