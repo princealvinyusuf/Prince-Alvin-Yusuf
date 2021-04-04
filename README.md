@@ -1,8 +1,5 @@
 
-<h1 align="center">Hi 👋 
-My name is Alvin
-</h1> 
-<h1 align="center">My name is Alvin </h1>
+<h1 align="center">Hi 👋 <br> My name is Alvin </h1> 
 <h3 align="center">A self-taught programmer😜</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/princealvinyusuf?logo=GitHub&style=for-the-badge)
