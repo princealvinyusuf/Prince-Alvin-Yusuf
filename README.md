@@ -26,14 +26,26 @@
 
 ## Published App
 
+#### NutriCal
+<a href="https://apps.apple.com/id/app/nutrical-app/id1535180344" target="blank"><img src="https://iconape.com/wp-content/png_logo_vector/download-on-the-app-store-flat-badge-logo.png" alt="appstore" height="30" width="100" /></a>
+
 #### Wastless 
 <a href="https://apps.apple.com/id/app/wastless/id1536328244" target="blank"><img src="https://iconape.com/wp-content/png_logo_vector/download-on-the-app-store-flat-badge-logo.png" alt="appstore" height="30" width="100" /></a>
 
 ##### Meler (Multimedia E-Learning)
 <a href="https://play.google.com/store/apps/details?id=com.polibatam.meler" target="blank"><img src="https://iconape.com/wp-content/png_logo_vector/get-it-on-google-play-badge-logo.png" alt="playstore" height="30" width="100" /></a> 
 
+#### Moneytory
+<a href="https://apps.apple.com/id/app/moneytory/id1540283714" target="blank"><img src="https://iconape.com/wp-content/png_logo_vector/download-on-the-app-store-flat-badge-logo.png" alt="appstore" height="30" width="100" /></a>
+
 ##### Smart Poster NFC
 <a href="https://play.google.com/store/apps/details?id=com.polibatam.smartposternfc" target="blank"><img src="https://iconape.com/wp-content/png_logo_vector/get-it-on-google-play-badge-logo.png" alt="playstore" height="30" width="100" /></a> 
+
+#### Task Board
+<a href="https://apps.apple.com/id/app/task-board-keep-prioritize/id1540972402" target="blank"><img src="https://iconape.com/wp-content/png_logo_vector/download-on-the-app-store-flat-badge-logo.png" alt="appstore" height="30" width="100" /></a>
+
+#### Weatheria
+<a href="https://apps.apple.com/id/app/weatheria/id1541497897" target="blank"><img src="https://iconape.com/wp-content/png_logo_vector/download-on-the-app-store-flat-badge-logo.png" alt="appstore" height="30" width="100" /></a>
 
 ##### Pembela Tanah Air
 <a href="https://play.google.com/store/apps/details?id=com.combro.Peta" target="blank"><img src="https://iconape.com/wp-content/png_logo_vector/get-it-on-google-play-badge-logo.png" alt="playstore" height="30" width="100" /></a> 
