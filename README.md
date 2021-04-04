@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋 <br> My name is Alvin </h1> 
 <h3 align="center">A self-taught programmer😜</h3>
 
-![GitHub followers](https://img.shields.io/github/followers/princealvinyusuf?logo=GitHub&style=for-the-badge)
 
 
 - 🌱 I’m currently learning **Flutter, Dart, Swift, SwiftUI**
@@ -11,7 +10,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/princealvinyusuf" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="princealvinyusuf" height="22" width="22" /></a>
+<a href="https://www.linkedin.com/in/princealvinyusuf" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="princealvinyusuf" height="28" width="28" /></a> ![GitHub followers](https://img.shields.io/github/followers/princealvinyusuf?logo=GitHub&style=for-the-badge)
 
 
 <br />
