@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋 </h1> 
+<h1 align="center">Hi 👋 
+My name is Alvin
+</h1> 
 <h1 align="center">My name is Alvin </h1>
 <h3 align="center">A self-taught programmer😜</h3>
 
